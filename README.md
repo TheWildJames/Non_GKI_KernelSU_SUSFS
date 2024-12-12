@@ -67,18 +67,7 @@ Flashing this kernel will void your warranty, and there is always a risk of bric
 
 # Confirmed Working Devices
 
-### Google
-+ Pixel 7 Pro
-+ Pixel 8
-### OnePlus 
-+ 11 5G
-### Samsung
-+ Galaxy S22
-### Xiaomi
-+ Redmi K50 Ultra
-+ Redmi K60
-+ Redmi K60 Ultra
-+ 13 Pro
+None ATM
   
 If you flash this and it works please let me know so i can add your device!
 
